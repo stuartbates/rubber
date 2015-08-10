@@ -10,3 +10,7 @@ pkg
 .gitignore
 atlassian-ide-plugin.xml
 log
+.kitchen/
+.kitchen.local.yml
+bundle/
+test/integration/workdir/
